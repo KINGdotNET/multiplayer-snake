@@ -1,0 +1,29 @@
+To start and play the game, you need to run both the server and the client. Here are the steps:
+
+Step 1: Run the Server
+
+Open a terminal or command prompt.
+Navigate to the directory where you saved the game.py file.
+Type python game.py and press Enter to run the server.
+Step 2: Run the Client
+
+Open another terminal or command prompt.
+Navigate to the directory where you saved the client.py file.
+Type python client.py and press Enter to run the client.
+Step 3: Play the Game
+
+The client window should appear with a snake and a food pellet.
+Use the arrow keys to move the snake around the screen.
+Eat the food pellets to grow the snake.
+Avoid hitting the edges of the screen or the snake's own body.
+The server will keep track of the game state and update the client window accordingly.
+Note: Make sure you have Python and Pygame installed on your system to run the game. If you don't have Pygame, you can install it using pip: pip install pygame
+
+Troubleshooting:
+
+If you encounter any errors, check the terminal output for error messages.
+Make sure you are running the server and client in the correct directories.
+If you are still having trouble, try restarting the server and client.
+I hope this helps! Let me know if you have any further questions.
+
+EM@KING.NET
