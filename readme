@@ -19,11 +19,41 @@ Avoid hitting the edges of the screen or the snake's own body.
 The server will keep track of the game state and update the client window accordingly.
 Note: Make sure you have Python and Pygame installed on your system to run the game. If you don't have Pygame, you can install it using pip: pip install pygame
 
+
 Troubleshooting:
 
 If you encounter any errors, check the terminal output for error messages.
 Make sure you are running the server and client in the correct directories.
 If you are still having trouble, try restarting the server and client.
 I hope this helps! Let me know if you have any further questions.
+
++++++++++++
+Using a modern browser.
+
+To start and play the game, follow these steps:
+
+Step 1: Run the Server
+
+Open a terminal or command prompt.
+Navigate to the directory where you saved the server-side code (Node.js).
+Type node server.js and press Enter to run the server.
+Step 2: Open the Game in a Browser
+
+Open a modern browser (e.g., Google Chrome, Mozilla Firefox).
+Navigate to http://localhost:8080 in the browser's address bar.
+You should see the game canvas and the leaderboard display.
+Step 3: Play the Game
+
+Use the arrow keys to move your snake around the canvas.
+Eat the food pellets to grow your snake.
+Avoid hitting the edges of the canvas or other snakes.
+Try to become the longest snake on the leaderboard!
+Note: Since this is a multiplayer game, you can open multiple browser tabs or windows to play with multiple snakes at the same time.
+
+
+
+
+
+
 
 EM@KING.NET
